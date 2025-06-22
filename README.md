@@ -86,6 +86,10 @@ ngrok http 5000
 
 > Copy the generated URL (e.g., [https://xxxx.ngrok.io](https://xxxx.ngrok.io/)) to access your backend from anywhere.
 
+# NOTE
+
+Each time new url create (e.g., [https://xxxx.ngrok.io](https://xxxx.ngrok.io/)) needs to be put in the frontend of the porject so it may send requests to correct url.
+
 Sample API Usage
 ----------------
 
