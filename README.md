@@ -19,7 +19,7 @@ Features
 Tech Stack
 ----------
 
--   **Python 3.10+**
+-   **Python 3.11**
 
 -   **PyTorch** -- for AI model execution
 
